@@ -2,34 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://geekx.top/guide/signup/apple-id.html</loc>
-    
-    <lastmod>2022-05-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekx.top/guide/signup/outlook.html</loc>
-    
-    <lastmod>2022-05-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekx.top/guide/tools/fastgithub.html</loc>
-    
-    <lastmod>2022-05-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekx.top/guide/vpn/clash-intro.html</loc>
+    <loc>https://geekx.top/about/</loc>
     
     <lastmod>2022-05-05</lastmod>
     
@@ -40,7 +13,16 @@
   <url>
     <loc>https://geekx.top/guide/vpn/github-find-free-vpn.html</loc>
     
-    <lastmod>2022-05-05</lastmod>
+    <lastmod>2022-04-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekx.top/guide/signup/apple-id.html</loc>
+    
+    <lastmod>2022-04-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +31,7 @@
   <url>
     <loc>https://geekx.top/guide/vpn/shadowrocket-intro.html</loc>
     
-    <lastmod>2022-05-05</lastmod>
+    <lastmod>2022-04-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +40,34 @@
   <url>
     <loc>https://geekx.top/guide/vpn/share-vpn.html</loc>
     
-    <lastmod>2022-05-05</lastmod>
+    <lastmod>2022-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekx.top/guide/signup/outlook.html</loc>
+    
+    <lastmod>2022-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekx.top/guide/tools/fastgithub.html</loc>
+    
+    <lastmod>2022-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekx.top/guide/vpn/clash-intro.html</loc>
+    
+    <lastmod>2022-04-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,16 +76,7 @@
   <url>
     <loc>https://geekx.top/guide/vpn/v2ray-intro.html</loc>
     
-    <lastmod>2022-05-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekx.top/about/</loc>
-    
-    <lastmod>2022-05-05</lastmod>
+    <lastmod>2022-04-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
